@@ -1,1 +1,2 @@
-This is my second lession of main branch and i am creating this brach because i want to see this how main branch line works in network area.
+i just delte all text and i want to add some information of fork .
+Fork means copy other repository copy and get available to our accound and then we change the things if we want and the we pull request to the main owener of that repository.
